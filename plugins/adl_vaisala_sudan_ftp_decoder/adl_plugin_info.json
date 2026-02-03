@@ -1,0 +1,10 @@
+{
+  "name": "ADL Vaisala Sudan FTP Decoder",
+  "version": "0.0.1",
+  "description": "An ADL FTP Decoder plugin for the Sudan Vaisala AWS",
+  "author": "WMO RAF",
+  "author_url": "",
+  "url": "TODO",
+  "license": "TODO",
+  "contact": "TODO"
+}
